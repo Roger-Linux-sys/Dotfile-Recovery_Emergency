@@ -1,0 +1,30 @@
+@define-color text #9564FD;
+@define-color background rgba(0, 0, 0, 0.85);
+
+* {
+  font-family: "JetBrains Mono Nerd Font";
+  font-weight: bold;
+  font-size: 18px;
+}
+
+window {
+  background: @background;
+}
+
+button {
+  background: @background;
+  color: @text;
+  border: 2px solid @text;
+  border-radius: 0;
+  margin: 8px;
+  padding: 16px 32px;
+}
+
+button:hover {
+  background: @text;
+  color: #000000;
+}
+
+button:focus {
+  box-shadow: none;
+}
