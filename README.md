@@ -37,29 +37,29 @@ O tema geral é inspirado em OneShot com wallpapers, cursor e temas personalizad
 | Tecla | Ação |
 |---|---|
 | `SUPER + Enter` | Terminal (foot) |
-| `CTRL + SUPER + Enter` | Lançador de apps (rofi) |
+| `CTRL + SUPER + Enter` | App Launcher (rofi) |
 | `SUPER + B` | Firefox |
 | `SUPER + C` | Codium |
 | `SUPER + E` | Thunar |
-| `SUPER + Q` | Fechar janela |
-| `SUPER + F` | Tela cheia |
+| `SUPER + Q` | Fechar Janela |
+| `SUPER + F` | Tela Cheia |
 | `SUPER + ALT + F` | Tela cheia com borda |
 | `SUPER + ALT + Espaço` | Alternar janela flutuante |
-| `SUPER + setas` | Mover foco |
-| `SUPER + SHIFT + setas` | Mover janela |
-| `SUPER + 1-0` | Alternar workspace |
-| `SUPER + ALT + 1-0` | Mover janela para workspace |
+| `SUPER + setas` | Mover Foco |
+| `SUPER + SHIFT + setas` | Mover Janela |
+| `SUPER + 1-0` | Alternar Workspace |
+| `SUPER + ALT + 1-0` | Mover janela para Workspace |
 | `CTRL + SUPER + esquerda/direita` | Workspace anterior/próximo |
-| `SUPER + L` | Travar tela |
+| `SUPER + L` | Lockscreen |
 | `SUPER + SHIFT + L` | Suspender |
-| `CTRL + ALT + Delete` | Menu de energia (wlogout) |
-| `SUPER + SHIFT + E` | Sair da sessão |
+| `CTRL + ALT + Delete` | Menu de Energia (wlogout) |
+| `SUPER + SHIFT + E` | Sair da Sessão |
 | `Print` | Capturar tela |
 | `SUPER + SHIFT + 3` | Capturar tela |
 | `SUPER + SHIFT + 4` | Capturar seleção |
-| `SUPER + V` | Área de transferência (cliphist + rofi) |
-| `SUPER + SHIFT + C` | Seletor de cor (hyprpicker) |
-| `F1` | Alternar autoclicker (50 CPS) |
+| `SUPER + V` | Área de Transferência (cliphist + rofi) |
+| `SUPER + SHIFT + C` | Seletor de Cor (hyprpicker) |
+| `F1` | Alternar Autoclicker (50 CPS) |
 | `SUPER + roda do mouse` | Workspace anterior/próximo |
 | `SUPER + PageUp/PageDown` | Workspace anterior/próximo |
 
