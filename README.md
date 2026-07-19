@@ -32,6 +32,37 @@ O tema geral é inspirado em OneShot com wallpapers, cursor e temas personalizad
 ### Gerenciamento de Sessão
 * sddm (habilitado automaticamente pelo script)
 
+## Keybindings
+
+| Tecla | Ação |
+|---|---|
+| `SUPER + Enter` | Terminal (foot) |
+| `CTRL + SUPER + Enter` | Lançador de apps (rofi) |
+| `SUPER + B` | Firefox |
+| `SUPER + C` | Codium |
+| `SUPER + E` | Thunar |
+| `SUPER + Q` | Fechar janela |
+| `SUPER + F` | Tela cheia |
+| `SUPER + ALT + F` | Tela cheia com borda |
+| `SUPER + ALT + Espaço` | Alternar janela flutuante |
+| `SUPER + setas` | Mover foco |
+| `SUPER + SHIFT + setas` | Mover janela |
+| `SUPER + 1-0` | Alternar workspace |
+| `SUPER + ALT + 1-0` | Mover janela para workspace |
+| `CTRL + SUPER + esquerda/direita` | Workspace anterior/próximo |
+| `SUPER + L` | Travar tela |
+| `SUPER + SHIFT + L` | Suspender |
+| `CTRL + ALT + Delete` | Menu de energia (wlogout) |
+| `SUPER + SHIFT + E` | Sair da sessão |
+| `Print` | Capturar tela |
+| `SUPER + SHIFT + 3` | Capturar tela |
+| `SUPER + SHIFT + 4` | Capturar seleção |
+| `SUPER + V` | Área de transferência (cliphist + rofi) |
+| `SUPER + SHIFT + C` | Seletor de cor (hyprpicker) |
+| `F1` | Alternar autoclicker (50 CPS) |
+| `SUPER + roda do mouse` | Workspace anterior/próximo |
+| `SUPER + PageUp/PageDown` | Workspace anterior/próximo |
+
   
 ## Instalação
 
