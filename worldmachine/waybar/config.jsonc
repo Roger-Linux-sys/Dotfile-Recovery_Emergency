@@ -1,0 +1,28 @@
+{
+  "height": 60,
+  "spacing": 8,
+  "modules-left": ["wlr/taskbar"],
+  "modules-right": ["clock", "image#minimizeall"],
+  "reload_style_on_change": true,
+  "clock": {
+    "tooltip-format": "{calendar}",
+    "format": "{:%H:%M}"
+  },
+  "wlr/taskbar": {
+    "format": "{icon} {name}",
+    "icon-size": 28,
+    "tooltip-format": "{title}",
+    "on-click": "activate",
+    "on-click-middle": "close",
+    "ignore-list": [
+      "Picture-in-Picture"
+    ],
+  },
+  "image#minimizeall": {
+    // now just a decoration, but I may create an extra workspace soon
+    "path": "./minimizeall.svg",
+    "size": 32,
+    "interval": 5,
+  },
+  "position": "bottom"
+}

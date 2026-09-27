@@ -1,0 +1,45 @@
+@define-color text #9564FD;
+@define-color activeWorkspace #9564FD;
+@define-color hoverWorkspace #7f849c;
+@define-color background #000000;
+
+
+* {
+  font-family: "Terminess Nerd Font";
+  font-weight: bold;
+  font-size: 18px;
+}
+
+window#waybar {
+  background: @background;
+  border: 0 solid @text;
+  border-top-width: 4px;
+}
+
+#clock {
+  color: @text;
+  margin: 0;
+}
+
+#image {
+  margin: 8px 12px 6px;
+}
+
+#taskbar button:hover {
+  color: @text;
+  background-color: @background;
+}
+
+#taskbar button {
+  color: @text;
+  border: 4px solid @text; 
+  border-radius: 0;
+  padding: 0px 10px;
+  margin: 8px 4px 4px;
+}
+
+#taskbar button.active {
+  color: @background;
+  background-color: @text;
+}
+
